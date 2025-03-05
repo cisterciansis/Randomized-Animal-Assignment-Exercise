@@ -20,7 +20,7 @@ import random
 # 2. Change or extend the treatment groups.
 # 3. Experiment with different GUI styles or add new features.
 #
-# Enjoy learning and feel free to build on this template!
+# Enjoy learning and building Tori!
 # =============================================================================
 
 def randomize_assignments():
